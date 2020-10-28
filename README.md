@@ -2,7 +2,7 @@
 
 
 ## 🏁 Objetivo 🏁
-### Mi objetivo es que puedas usar este oqueño proyecto para implementarlo a tu proyecto que necesite tener una navegación por tab y también por botones, espero que te ayude.
+### Mi objetivo es que puedas usar este pequeño proyecto para implementarlo a tu proyecto que necesite tener una navegación por tab y también por botones, espero que te ayude.
 
 ## 👷 Para la cración de la navegación se utilizó 👷
 ### 🔧 Expo
@@ -20,7 +20,7 @@
 	> expo init nombre_mi_proyecto
 #### inicializa con Blank TypeScript
 
-## 🔧 Las dependencias utilizadas para la navegación son 🔧
+## 🔧 Las dependencias utilizadas para la navegación (react navigation v5) son 🔧
 	> yarn add @react-navigation/native
 	> expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 	> yarn add @react-navigation/stack
